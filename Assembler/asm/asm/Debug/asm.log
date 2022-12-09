@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\ofekhare\source\repos\asm\asm\source.c(571): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'MemoryLine *'
+  asm.vcxproj -> C:\Users\ofekhare\source\repos\asm\Debug\asm.exe

@@ -1,0 +1,4 @@
+﻿  simulator.c
+C:\Electrical Engineering\Semester 5\Computer Organization\Project\Simulator\simulator\sim\simulator.c(95,36): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [128][128]'
+C:\Electrical Engineering\Semester 5\Computer Organization\Project\Simulator\simulator\sim\simulator.c(95,25): warning C4024: 'read_diskin': different types for formal and actual parameter 2
+  sim.vcxproj -> C:\Electrical Engineering\Semester 5\Computer Organization\Project\Simulator\simulator\Debug\sim.exe
